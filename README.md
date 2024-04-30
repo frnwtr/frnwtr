@@ -7,8 +7,6 @@
 
 > 📦 217.5 kB Used in GitHub's Storage 
  > 
-> 🏆 428 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 69 Public Repositories 
@@ -73,5 +71,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 00:13:00 UTC
+ Last Updated on 30/04/2024 00:12:42 UTC
 <!--END_SECTION:waka-->
