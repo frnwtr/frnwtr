@@ -7,7 +7,7 @@
 
 > 📦 166.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 808 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,18 +42,13 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               2 hrs 21 mins       █████████████░░░░░░░░░░░░   51.75 % 
-SQL                      58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-JSON                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 4 hrs 27 mins       ████████████████████████░   97.87 % 
-GoLand                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -73,5 +68,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2024 00:14:46 UTC
+ Last Updated on 11/08/2024 00:15:44 UTC
 <!--END_SECTION:waka-->
