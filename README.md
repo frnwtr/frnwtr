@@ -7,8 +7,6 @@
 
 > 📦 166.1 kB Used in GitHub's Storage 
  > 
-> 🏆 808 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 60 Public Repositories 
@@ -68,5 +66,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 00:14:19 UTC
+ Last Updated on 17/08/2024 00:14:23 UTC
 <!--END_SECTION:waka-->
