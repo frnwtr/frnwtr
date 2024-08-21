@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C254%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C255%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 > 📦 166.1 kB Used in GitHub's Storage 
  > 
-> 🏆 808 Contributions in the Year 2024
+> 🏆 809 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,13 +42,18 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      44 mins             █████████████░░░░░░░░░░░░   52.53 % 
+Go                       18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   1 hr 5 mins         ████████████████████░░░░░   78.07 % 
+PhpStorm                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -68,5 +73,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 00:14:20 UTC
+ Last Updated on 21/08/2024 00:14:49 UTC
 <!--END_SECTION:waka-->
