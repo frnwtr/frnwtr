@@ -7,8 +7,6 @@
 
 > 📦 185.8 kB Used in GitHub's Storage 
  > 
-> 🏆 814 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 65 Public Repositories 
@@ -72,5 +70,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 00:22:52 UTC
+ Last Updated on 30/06/2025 00:21:56 UTC
 <!--END_SECTION:waka-->
