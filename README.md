@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C109%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C109%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,10 +42,10 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Docker                   2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-YAML                     1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-TypeScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Docker                   2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.35 % 
+YAML                     1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+TypeScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 🔥 Editors: 
@@ -72,5 +72,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 00:21:58 UTC
+ Last Updated on 16/07/2025 00:21:53 UTC
 <!--END_SECTION:waka-->
