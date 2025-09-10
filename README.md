@@ -42,17 +42,13 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               2 hrs 44 mins       █████████████████░░░░░░░░   69.08 % 
-PHP                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-SQL                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 3 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,5 +68,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 00:19:49 UTC
+ Last Updated on 10/09/2025 00:19:23 UTC
 <!--END_SECTION:waka-->
