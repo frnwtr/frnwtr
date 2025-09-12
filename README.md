@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C199%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C203%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 186.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 961 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,13 +42,17 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      3 hrs 28 mins       ██████████████████████░░░   86.11 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 4 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,5 +72,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 00:20:58 UTC
+ Last Updated on 12/09/2025 00:19:58 UTC
 <!--END_SECTION:waka-->
