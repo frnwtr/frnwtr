@@ -7,7 +7,7 @@
 
 > 📦 187.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,708 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,18 +42,13 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    2 mins              ████████████████████████░   97.12 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      1 min               ████████████░░░░░░░░░░░░░   48.55 % 
-DockerDesktop            0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Terminal                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Discord                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Mail                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +68,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 00:23:11 UTC
+ Last Updated on 01/01/2026 00:25:18 UTC
 <!--END_SECTION:waka-->
