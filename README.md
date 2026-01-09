@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C594%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C601%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -7,11 +7,11 @@
 
 > 📦 187.2 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 68 Public Repositories 
+> 📜 69 Public Repositories 
  > 
 > 🔑 36 Private Repositories 
  > 
@@ -42,13 +42,21 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 hrs 31 mins       █████████████████████░░░░   85.22 % 
+PHP                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Discord                  2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
+Safari                   2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
+PhpStorm                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+ChatGPT                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Mail                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -68,5 +76,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 00:24:48 UTC
+ Last Updated on 09/01/2026 00:23:06 UTC
 <!--END_SECTION:waka-->
