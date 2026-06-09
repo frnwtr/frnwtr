@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C879%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -13,6 +15,42 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6309 commits        ████████░░░░░░░░░░░░░░░░░   30.08 % 
+🌆 Daytime                12422 commits       ███████████████░░░░░░░░░░   59.23 % 
+🌃 Evening                1718 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+🌙 Night                  524 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   3368 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Tuesday                  3570 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Wednesday                4539 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Thursday                 5606 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Friday                   3737 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Saturday                 128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Sunday                   25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -30,5 +68,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/frnwtr/frnwtr/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 00:54:03 UTC
+ Last Updated on 09/06/2026 00:48:49 UTC
 <!--END_SECTION:waka-->
